@@ -42,4 +42,4 @@ Structured Data Management – Organizing data in files makes it easier to retri
 File handling in C is a crucial concept for managing data beyond the runtime of a program. By understanding different file types, operations, and modes, developers can efficiently store, retrieve, and modify data as needed. Proper file handling techniques ensure efficient data management and enhance the functionality of applications.
 
 OUTPUT OF THE TASK
-Image
+![Image](https://github.com/user-attachments/assets/fa418f79-d86c-49f7-a5f6-aa17ef177a5e)
